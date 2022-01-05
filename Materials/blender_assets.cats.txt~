@@ -1,0 +1,38 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+0b34a165-3335-463b-9bd5-0cf19fada954:Brick:Brick
+88e7a601-18c0-4853-9047-b900ffa5fc33:Brick/Procedural:Brick-Procedural
+4c4eed50-9e02-4a61-a6e3-ad94e9a8708f:Brick/Static:Brick-Static
+d02367dc-d557-4b2e-b5be-dbd503b496a0:Carpet:Carpet
+1f758dd5-b55b-4114-b968-6d17f3cd5e32:Carpet/Procedural:Carpet-Procedural
+e0208f8a-9637-4691-81f8-b1597b47fade:Carpet/Static:Carpet-Static
+9dd1bd4b-33c0-43e9-9e40-42c4747844a9:Celestial:Celestial
+65e50665-55f5-4cf9-8139-cbaa5a0c10d5:Celestial/Procedural:Celestial-Procedural
+a9fe9cd5-a6c1-4ded-8213-20de603c0c2d:Celestial/Static:Celestial-Static
+e8280fa4-48be-447d-aff5-1b847dde7c37:Fabric:Fabric
+1bcb8b38-dab7-4015-8e1a-a8f9e28172dc:Fabric/Procedural:Fabric-Procedural
+7970edb2-f555-4fa2-9ec3-60b7cc352002:Fabric/Static:Fabric-Static
+62aee0bb-59cb-46d6-ab37-6a375868c7e5:Glass:Glass
+0eacdb1c-ee75-4648-9441-d5df0af5b49d:Glass/Procedural:Glass-Procedural
+0ea57c57-5c1c-47a2-8d43-5e4eba6355e9:Glass/Static:Glass-Static
+c405696f-162c-43ab-b611-836f5854c1eb:Leather:Leather
+5d8d7282-2b9a-4d51-b0ec-adb4a4ead97d:Leather/Procedural:Leather-Procedural
+f8c8dca9-d294-42a4-9f97-e1c1deb48426:Leather/Static:Leather-Static
+1d62214b-f829-49bd-9ce5-6b174d5c6b56:Metal:Metal
+3edd3e35-9ac2-410e-b02b-a8769fca99a1:Metal/Procedural:Metal-Procedural
+dcf30827-690b-4083-85cb-f3fb3c999451:Metal/Static:Metal-Static
+6ffc77cf-ce90-481d-a0ae-331d4fb021fc:Plastic:Plastic
+73c58fe7-8224-4732-b5a3-1dd8b24af0ed:Plastic/Procedural:Plastic-Procedural
+9435f60a-fdb2-4fad-a2d2-f801e56dd56b:Plastic/Static:Plastic-Static
+2e5e477e-49ba-4962-8ea8-5fdd01ddf186:Tiles:Tiles
+cf650574-3a33-40ed-a5d6-0240c342583e:Tiles/Procedural:Tiles-Procedural
+a88e3736-7ede-448b-a1a7-eab114c58d0b:Tiles/Static:Tiles-Static
+8ac141f3-7920-4004-a533-128aaa22c87f:Wood:Wood
+209cb00f-0e91-4d2a-b392-18a6efa88e7b:Wood/Procedural:Wood-Procedural
+1f32c667-7279-4669-8976-9db7c9683b1b:Wood/Static:Wood-Static

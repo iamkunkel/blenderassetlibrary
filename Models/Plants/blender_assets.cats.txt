@@ -1,0 +1,21 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+edefeb2d-6ec8-4924-97da-443bf544f4fb:Coniferous:Coniferous
+cee25cf0-94a0-4e6b-a3c9-59ce6eef3c46:Deciduous:Deciduous
+3857aaa2-cf0c-4d3b-a7af-d67f67ed85b7:Flowers:Flowers
+f22875ee-a714-4c77-aa96-03f2b662d8dd:Garden:Garden
+fa519b6b-8359-4536-ab8d-d93045c48b04:Grass:Grass
+15f40765-6e8f-4c4a-9398-2989d120bbd9:Ivy:Ivy
+bee57082-ac7e-43ed-a3e9-6d8eb6a4bfbb:Leaves:Leaves
+7a29cba5-99fe-4aca-9a81-0e4e1ec9ce00:Potted:Potted
+9edd5a88-380a-432c-a82a-5568f0485aaf:Shrubs:Shrubs
+4f64416d-d9d0-41ff-9673-9d7da1f09b6d:Succulents:Succulents
+d454aa06-8d25-4356-86ed-24f36eab6c5e:Tropical:Tropical
+dea8aacd-8db0-4dfa-9bad-9b69aabce21e:Vines:Vines
+fcdb81ce-ffb5-42fb-84b0-ed489417478f:Weed:Weed

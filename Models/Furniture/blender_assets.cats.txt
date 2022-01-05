@@ -1,0 +1,61 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+7034c8ff-590b-4b3b-a299-6efa9f17d78b:Bathroom:Bathroom
+cce734fe-5376-4876-98a9-f62a821d5847:Bathroom/Basins:Bathroom-Basins
+8e79fe49-b519-4b40-852b-6bdf4f6165ae:Bathroom/Baths:Bathroom-Baths
+bfea5518-4aec-414d-a721-ae08172ba256:Bathroom/Details:Bathroom-Details
+9e54040f-f32f-4d0f-8c2f-3b0ebcad4235:Bathroom/Radiators:Bathroom-Radiators
+2a401bb7-906e-48a3-ac95-64656d129f7a:Bathroom/Showers:Bathroom-Showers
+a4d0b9be-f4d5-4cb8-b35d-1628103aa677:Bathroom/Toiletries:Bathroom-Toiletries
+01f534df-9918-4f22-bd2f-fd17f46ff36c:Bathroom/Toilets:Bathroom-Toilets
+5e2a6300-dd91-4c2c-9b44-6668e04e4b4a:Bedroom:Bedroom
+0c90595e-f573-43e1-b10a-cccdf8a11880:Bedroom/Beds:Bedroom-Beds
+096a355b-7cca-4952-a2bb-7d9a19c48813:Bedroom/Dressers:Bedroom-Dressers
+a2bbfd67-1da6-48bb-9404-41fc0a8aaea1:Bedroom/Nightstands:Bedroom-Nightstands
+abde1ad5-0348-4636-8e8c-895679668305:Decorations:Decorations
+d598c2ad-5ceb-4c23-ad8f-eafa0eb3f2c4:Decorations/Modern:Decorations-Modern
+50307c92-958e-42cf-897f-0e09863f9ce1:Decorations/Toys:Decorations-Toys
+c550b8f9-54e2-4ef5-92a9-662289bf7644:Decorations/Traditional:Decorations-Traditional
+9b620e2f-64f9-49ca-8821-f9c860771565:Decorations/Vases:Decorations-Vases
+add8584d-feac-41f5-88a2-7d27521c6cea:Decorations/Wall:Decorations-Wall
+5c8febae-12e1-451a-9c8f-d1b8d886194f:Details:Details
+2ddee4f1-9c55-4acc-b12d-626d7f798e68:Details/Blinds:Details-Blinds
+339e4baa-6413-4f7d-aa74-1acb8f5b7f8c:Details/Catalog:Details-Catalog
+073429ef-accb-4fa4-a001-c601077a1638:Details/Curtains:Details-Curtains
+3f06929f-785a-4db7-902c-1fc70029614a:Dining:Dining
+26e1b994-cbec-4288-9244-5fe2269c7401:Dining/Dinnerwear:Dining-Dinnerwear
+efcdf76f-8e43-4c7e-a0f3-33fd110e467d:Dining/Glasswear:Dining-Glasswear
+79be0524-6428-4104-a6d6-78dd8e4104f7:Dining/Utensils:Dining-Utensils
+a5a4cb06-2225-4e58-b825-4a5705af812f:Kitchen:Kitchen
+6186294f-855a-49b0-bc6f-f4a90a62cd36:Kitchen/Accessories:Kitchen-Accessories
+9dd8628f-31df-4de2-9b7d-de0b5ced1e78:Kitchen/Appliances:Kitchen-Appliances
+06e59786-1520-4e14-ab49-7e717b42ead3:Kitchen/Cooking:Kitchen-Cooking
+c5b4f364-ae9d-4246-8b86-b8b1de6224df:Kitchen/Electronics:Kitchen-Electronics
+4c949707-a3f2-4389-828e-36cc7b600774:Kitchen/Sinks:Kitchen-Sinks
+bee4f07d-4542-46d2-8c2e-b227d65f8fa0:Lighting:Lighting
+14ac5e04-86a8-49d8-a070-296b7d46ba9d:Lighting/Bulbs:Lighting-Bulbs
+3e536f97-1d86-4fce-b3af-c01bb6445ff6:Lighting/Ceiling:Lighting-Ceiling
+79340269-efce-46b9-8ea7-940ecf9b6c70:Lighting/Desk Lamps:Lighting-Desk Lamps
+e5fa136a-01f3-4d5c-a50d-d93687327fa7:Lighting/Floor Lamps:Lighting-Floor Lamps
+73367c89-1926-42f7-b771-6099e982eba1:Lighting/Wall Lamps:Lighting-Wall Lamps
+a8a7be55-71aa-4320-9c0a-b932da6daf17:Office:Office
+c175f494-30a6-4086-8f5c-593025d552ea:Office/Chairs:Office-Chairs
+0d6edf78-1438-4aa5-a89d-4a4326227711:Office/Desks:Office-Desks
+62745e0e-2fb5-4285-8492-14a3607e3780:Office/Electronics:Office-Electronics
+1c4707d8-9925-49f1-aed0-de198b6d7af6:Seating:Seating
+aacf71ae-a983-434e-8dd4-8de405683fcb:Seating/Benches:Seating-Benches
+5fb7ad60-3a44-454b-9af1-383ccfdb5ae1:Seating/Chairs:Seating-Chairs
+ea1bb01c-f95e-45cb-8d94-236219053ab7:Seating/Lounge Chairs:Seating-Lounge Chairs
+737c4774-41ce-4a48-8f3a-4de3b4e6cb72:Seating/Sofas:Seating-Sofas
+269f75de-5a8e-40e9-9604-b2d5a5b1593e:Seating/Stools:Seating-Stools
+8c72b319-6062-464b-b487-281c50e291d1:Tables:Tables
+caaadb5c-566b-4dec-965b-a16d20feee4e:Tables/Coffee Tables:Tables-Coffee Tables
+b11cce8d-1b17-4f88-838b-20a44a4b1f7d:Tables/Dining Tables:Tables-Dining Tables
+ebb706af-0269-42d6-9a50-9fca1bf91fc6:Tables/Office Tables:Tables-Office Tables
+52122e0f-842b-47d7-8110-19ffc365ebeb:Tables/Side Tables:Tables-Side Tables

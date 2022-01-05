@@ -1,0 +1,14 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+370e224e-82c2-4272-b765-653bdbc02678:Human:Human
+ab0963ac-7972-4a6d-b5b8-a97813fc866f:Human/Bones:Human-Bones
+041e6e9a-bead-4837-90be-fd5db018c2c1:Human/Limbs:Human-Limbs
+63f154b0-c206-4c31-8648-6cd5c8419852:Human/Organs:Human-Organs
+9767ff67-6d03-4b9a-a3b1-1f81b13bfe56:Viral:Viral
+47001305-3e73-4222-a319-831d0499ec3d:Viral/Molecules:Viral-Molecules
